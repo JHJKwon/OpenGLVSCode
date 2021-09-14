@@ -37,3 +37,7 @@ install nvidia 470 driver in WSL
 ```
 sudo apt install libnvidia-gl-470
 ```
+
+
+Note 2021-09-09
+First build setup
